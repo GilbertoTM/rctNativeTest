@@ -1,0 +1,26 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "github.copilot.enable": {
+      "*": true,
+      "markdown": true,
+      "typescript": true,
+      "javascript": true
+    },
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+    "files.associations": {
+      ".copilot-instructions.md": "markdown",
+      "reglas.md": "markdown"
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "GitHub.copilot",
+      "GitHub.copilot-chat"
+    ]
+  }
+}

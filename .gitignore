@@ -1,5 +1,10 @@
 # React Native
 
+# GitHub Copilot - Mantener archivos de contexto
+!.copilot-instructions.md
+!.copilot-context.md
+!reglas.md
+
 # OSX
 #
 .DS_Store

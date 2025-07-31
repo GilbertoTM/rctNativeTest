@@ -8,7 +8,9 @@
     "lint": "eslint .",
     "start": "react-native start",
     "test": "jest",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "copilot-help": "./copilot-helper.sh",
+    "show-rules": "cat reglas.md"
   },
   "dependencies": {
     "react": "18.2.0",

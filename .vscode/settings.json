@@ -1,0 +1,23 @@
+{
+  "github.copilot.enable": {
+    "*": true,
+    "markdown": true,
+    "typescript": true,
+    "javascript": true,
+    "json": true
+  },
+  "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+  "github.copilot.chat.localeOverride": "es",
+  "github.copilot.chat.welcomeMessage": "Hola! Recuerda revisar reglas.md para las instrucciones del proyecto.",
+  "files.associations": {
+    "reglas.md": "markdown",
+    ".copilot-*.md": "markdown"
+  },
+  "search.useIgnoreFiles": false,
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/.git/**": true,
+    "**/ios/**": true,
+    "**/android/**": true
+  }
+}

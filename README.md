@@ -2,6 +2,15 @@
 
 Este es un proyecto básico de React Native con TypeScript.
 
+## 🤖 Reglas para GitHub Copilot
+
+Este proyecto incluye reglas específicas para GitHub Copilot en el archivo `reglas.md`. 
+
+**Para desarrolladores**: Siempre referencia este archivo cuando uses Copilot Chat:
+```
+@workspace Lee el archivo reglas.md antes de realizar cualquier tarea
+```
+
 ## Instalación
 
 ```bash
